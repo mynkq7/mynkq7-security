@@ -9,7 +9,7 @@ Active on: HackerOne | Bugcrowd | Hack The Box | TryHackMe
 - Bugcrowd: https://bugcrowd.com/mynkq7  
 - HTB: https://www.hackthebox.com/profile/mynkq7  
 - LinkedIn: https://www.linkedin.com/in/mynkq7  
-- Contact: mynkq7
+- Contact: mynkq7cyber@!gmail.com
 
 ## Repo structure
 - `recon-pipeline/` — simple scripts for passive recon (in‑scope only)  
