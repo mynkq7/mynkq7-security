@@ -1,24 +1,22 @@
-# Mayank (@mynkq7) — Bug Bounty & Recon Portfolio
+# Mayank (@mynkq7) — Cybersecurity & Bug Bounty
 
-I’m learning web & API security with a focus on Recon, XSS, IDOR, SQLi and Information Disclosure.  
-Active on: HackerOne | Bugcrowd | Hack The Box | TryHackMe
+Concise, sanitized notes and practical analysis focused on vulnerabilities, tool usage, and writeups. This repository is my personal reference and study log.
 
-## Quick links| TryHackMe
-- TryHackMe: https://tryhackme.com/mynkq7
-- HackerOne: https://hackerone.com/mynkq7  
-- Bugcrowd: https://bugcrowd.com/mynkq7  
-- HTB: https://www.hackthebox.com/profile/mynkq7  
-- LinkedIn: https://www.linkedin.com/in/mynkq7  
-- Contact: mynkq7cyber@gmail.com
+---
 
-## Repo structure
-- `recon-pipeline/` — simple scripts for passive recon (in‑scope only)  
-- `templates/` — report template and checklists  
-- `writeups/` — sanitized HTB / THM writeups (methodology only)  
-- `notes/` — learning log and useful commands
+## Contact
+- HackerOne: `hackerone.com/mynkq7`  
+- Bugcrowd: `bugcrowd.com/mynkq7`  
+- LinkedIn: `linkedin.com/in/mynkq7`  
+- Email: `mynkq7cyber@gmail.com`
 
-## Goals
-- Build reliable bug‑bounty skills and submit quality reports.  
-- Share tools, templates, and learning notes to help others learn.
+---
 
-> ⚠️ All public writeups are sanitized. Do **not** use these PoCs against unauthorized or live targets.
+## Repository
+- `vulnerabilities/` — vulnerability notes (IDOR, XSS, SQLi, etc.)  
+- `tools/` — concise tool references and commands  
+- `writeups/` — sanitized writeups and analysis
+
+---
+
+> **Note:** Content is sanitized and for learning only. Do not test PoCs against unauthorized targets.
