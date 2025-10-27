@@ -1,4 +1,4 @@
-# Mayank (@mynkq7) — Cybersecurity & Bug Bounty
+# mynkq7 — Cybersecurity & Bug Bounty
 
 Concise, sanitized notes and practical analysis focused on vulnerabilities, tool usage, and writeups. This repository is my personal reference and study log.
 
