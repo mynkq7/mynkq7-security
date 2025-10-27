@@ -1,4 +1,4 @@
-# **Network Concepts + Wireshark
+# Network Concepts + Wireshark
 
 ---
 
