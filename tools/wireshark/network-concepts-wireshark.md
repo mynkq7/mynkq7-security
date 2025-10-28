@@ -143,7 +143,3 @@ Seq = 1 | Ack = 1 | Source Port = 4016 | Destination Port = 80
 - HTTP/DNS Data → Application Layer
 
 ---
-
-## **Summary of Today's Learning**
-
-- Understood TCP handshake, ACKs, sequence numbers.
