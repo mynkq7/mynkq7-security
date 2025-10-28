@@ -1,4 +1,4 @@
-# Automated reconnaissance (framework)
+# Recon-ng
 
 Reconnaissance - gathering information about target.
 
