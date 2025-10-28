@@ -1,6 +1,6 @@
 
 # Wireshark 
-=======
+
 # Open-source network protocol analyzer (also called packet sniffer)
 
 ## What does it actually do?
