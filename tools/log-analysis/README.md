@@ -1,4 +1,4 @@
-# log analysi
+# log analysis
 
 ## Log Files
 
