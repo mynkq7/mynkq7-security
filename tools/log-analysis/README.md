@@ -1,4 +1,4 @@
-# log analysis
+# Log Analysis
 
 ## Log Files
 
@@ -29,3 +29,75 @@
 | **Network Logs** | Logs from routers, firewalls, switches, IDS/IPS, and other network devices. |
 | **Event Logs** | Windows-specific logs that capture system, security, and application events. |
 | **Audit Logs** | Track administrative actions for compliance and accountability. |
+
+---
+
+## Explored: Logs
+
+**Digital record of system, application, network, and security events.**
+
+Captures activities like:
+- Logins  
+- Configuration changes  
+- Traffic flows  
+- Alerts  
+
+---
+
+### Why It Is Important
+- Detect threats early  
+- Reconstruct incidents and trace attacker actions  
+- Provide forensic evidence for investigations  
+- Assist in troubleshooting and performance monitoring  
+
+---
+
+### How They Help
+- Correlate events from multiple sources to uncover attack patterns  
+- Give real-time visibility across IT infrastructure  
+
+---
+
+## Detailed Types of Logs
+
+### Windows Event Logs
+> Contain system, security, and application events.  
+> Essential for detecting authentication failures, policy changes, and malicious activity on systems.
+
+### Linux System Logs
+> Contain Linux system activities, authentication, and kernel events.
+
+### Firewall Logs
+> Contain network allow/deny decisions with source/destination details.  
+> Critical for identifying unauthorized access attempts, port scans, and network anomalies.
+
+### Proxy Server Logs
+> Contain web traffic requests, URLs accessed, and user browsing behavior.  
+> Monitor data exfiltration, malicious websites, and policy violations.
+
+### Antivirus / EDR Logs
+> Contain malware detection, quarantine actions, and endpoint behavioral analysis.  
+> First line of defense against malware, ransomware, and advanced threats.
+
+### Active Directory Logs
+> Contain domain authentication, user/group changes, and directory service access.  
+> Critical for detecting credential thefts, privilege escalation, and insider threats.
+
+### VPN Logs
+> Contain remote access connections, authentication attempts, and session details.  
+> Monitor unauthorized remote access and unusual connection patterns.
+
+### Cloud Security Logs
+> Contain cloud service API calls, resource changes, and access patterns.  
+> Essential for cloud security monitoring and compliance in hybrid environments.
+
+### DNS Logs
+> Contain domain name resolution requests and responses.  
+> Detect command-and-control traffic, data exfiltration, and malicious domains.
+
+### IDS / IPS Logs
+> Contain IDPS alerts and blocked threats.
+
+### Database Logs
+> Contain database queries, transactions, authentication, and access patterns.  
+> Protect sensitive data from attacks like SQL injection, unauthorized access, and data breaches.
