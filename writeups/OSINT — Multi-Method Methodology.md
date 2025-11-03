@@ -1,4 +1,4 @@
-# OSINT — Multi-Method Methodology (Neutral Version)
+# OSINT
 
 A structured guide for collecting, analyzing, and using publicly available data for intelligence or investigative purposes.
 
