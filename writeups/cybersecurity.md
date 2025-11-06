@@ -38,14 +38,6 @@ Practise of Protecting Computer systems, Networks, Data form digital threats suc
 
 ---
 ---
-
-# Cybersecurity Notes (Detailed Study)
-
-These are my personal notes and understanding of cybersecurity concepts after completing the Google Cybersecurity course.  
-I wrote this in my own words to revise, share knowledge, and track my journey in cybersecurity.
-
----
-
 ## 1. Fundamentals
 
 ### CIA Triad
