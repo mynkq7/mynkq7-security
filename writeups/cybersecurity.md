@@ -1,4 +1,45 @@
-# Cybersecurity Notes
+# Cyber security
+Practise of Protecting Computer systems, Networks, Data form digital threats such as attacks, thefts and damage. Essential for maintaining Confidentiality, integrity and availability of Information
+
+---
+
+## Importance of Cyber security
+
+* **Protection Against Threats**
+    Defence against multiple cyber threats like phishing, malware, etc
+* **Regulatory Compliance**
+    Adhering to laws and regulations regarding data protection
+* **Trust Building**
+    Fostering trust with customers and stakeholders regarding data security
+* **Building Continuity**
+    Maintaining operational continuity during security incidents
+
+## Types of Cyber security
+
+* **Network Security**
+    Focuses of protecting internal networks from intrusions and attacks
+* **Application Security**
+    Safeguarding applications by identifying and fixing vulnerabilities throughout the development process ensuring applications operate securely
+* **Cloud Security**
+    Address security concerns related to the cloud, implementing measures to protect data stored in the cloud
+* **Information Security**
+    Protects data integrity and privacy both in transit and at rest, ensuring data is only accessible by authorise parties
+
+## Impact of Hacking
+
+* **Economic Damage**
+    Cyber attack can lead to significant amount of financial losses for individual and business, disrupting operations.
+* **Reputation Management**
+    Organisations that fall victim to hacking may suffer form damage reputations, affecting customer trust and loyalty.
+* **Data Breach Consequences**
+    Data breaches compromise sensitive personal and corporate information, leading to identity theft, loss of trust.
+* **Policy Changes**
+    High profile hacks often lead to implementation of stricter cyber laws and policies.
+
+---
+---
+
+# Cybersecurity Notes (Detailed Study)
 
 These are my personal notes and understanding of cybersecurity concepts after completing the Google Cybersecurity course.  
 I wrote this in my own words to revise, share knowledge, and track my journey in cybersecurity.
